@@ -4,7 +4,7 @@ description: "How to create a terminal-based app that adds, lists and manages ta
 dateString: Aug 2023
 draft: false
 tags: ["Python", "Automation", "Bash", "Python programming"]
-weight: 101
+weight: 102
 cover:
     image: "/blog/jafr/jafr.jpg"
 ---

@@ -4,7 +4,7 @@ description: "How to setup Wazuh/ELK for monitoring your network"
 dateString: Sep 2023
 draft: false
 tags: ["NSM", "Beginner", "Wazuh", "ELK"]
-weight: 101
+weight: 103
 cover:
     image: "/blog/wazuh/wazuh.jpg"
 ---
