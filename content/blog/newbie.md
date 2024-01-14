@@ -3,7 +3,7 @@ title: "Getting started in Cyber Security: Your roadmap to a Secure Future"
 description: "How to get started in Cyber security"
 dateString: Sep 2023
 draft: false
-tags: ["Wazuh", "IDS", "Follina", "Exploit", "Incident Response"]
+tags: ["Cybersecurity", "Newbie", "Beginner"]
 weight: 101
 cover:
     image: "/blog/newbie/cyber.png"
